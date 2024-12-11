@@ -21,6 +21,8 @@ x= np.array([0, 1,2,3,4,5,6,7,8,9])
 y= np.array([1,3,2,5,7,8,8,9,10,12])
 plt.scatter(x,y)
 plt.show()
+```
+```
 xmean = np.mean(x)
 ymean = np.mean(y)
 num=0
@@ -41,6 +43,8 @@ plt.show()
 ## Output
 ![Screenshot 2024-12-11 172424](https://github.com/user-attachments/assets/492933e6-8ce5-48e3-8b0b-d6a5870ab2c0)
 </br>
+![Screenshot 2024-12-11 221617](https://github.com/user-attachments/assets/a8629364-2b03-4523-9235-617ff107ea83)
+
 </br>
 </br>
 </br>
